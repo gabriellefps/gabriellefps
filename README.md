@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabrielle Fernandes</h1>
-<h3 align="center">Electronic and computer engineering student at Federal University of Rio de Janeiro (UFRJ)</h3>
+
 
 - 📫 How to reach me: **gabriellefps.20221@poli.ufrj.br**
 
